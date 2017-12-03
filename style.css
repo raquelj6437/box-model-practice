@@ -11,19 +11,21 @@
     margin: auto;
     width: 60%;
     padding: 10px;
-    
 }
 
 #subtitle {
     background: black;
     color: white;
     /*add CSS here*/
-    
+    margin: auto;
+    width: 60%;
+    padding: 10px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    
+    float: left;
+    margin-top: 90px
 }
 

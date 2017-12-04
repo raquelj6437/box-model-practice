@@ -9,7 +9,7 @@
 #title {
     background: yellow;
     margin: auto;
-    width: 60%;
+    width: 300px;
     padding: 10px;
 }
 
@@ -17,7 +17,7 @@
     background: black;
     color: white;
     margin: auto;
-    width: 60%;
+    width: 300px;
     padding: 10px;
 }
 
@@ -25,5 +25,5 @@
     background: lightgray;
     float: left;
     margin: inherit;
-    margin-left: 9%;
+    margin-left: 20px;
 }
